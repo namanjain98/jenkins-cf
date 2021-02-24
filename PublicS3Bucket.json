@@ -3,7 +3,7 @@
     "Parameters": {
         "BucketName": {
             "Type": "String",
-            "Default": "bw-hosting-basic"
+            "Default": "bw-hosting-basic-naman24022021"
         }
     },
     "Resources": {
